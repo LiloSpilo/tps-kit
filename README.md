@@ -1,5 +1,7 @@
 # TPS Kit Community Version 0.87
 
+## Use GitHub Desktop or the git cli to clone this repo. Downloading the zip from here will not work because Git LFS is required.
+
 ![image](https://github.com/user-attachments/assets/207b24b1-64d6-44ed-887a-c483ff77c0c5)
 
 # 🔫 Original TPS Kit (Open Source Release)
