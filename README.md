@@ -1,5 +1,7 @@
 # TPS Kit Community Version 0.87
 
+![image](https://github.com/user-attachments/assets/207b24b1-64d6-44ed-887a-c483ff77c0c5)
+
 # 🔫 Original TPS Kit (Open Source Release)
 
 Welcome to the **Original TPS Kit**, now fully open-source and free for the Unreal Engine community. This kit was originally developed and distributed through Patreon, but it's time to pass the torch.
