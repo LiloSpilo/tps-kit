@@ -58,7 +58,7 @@ The documentation is also open source: [https://github.com/soriox/TPS-Docs](http
 ## 🛠 Getting Started
 
 1. **Clone or download** the repo.
-2. Open with **Unreal Engine 4.27+ or 5.x**.
+2. Open with **Unreal Engine 5.4+
 3. Explore, tweak, and expand. This kit is yours now.
 
 ---
