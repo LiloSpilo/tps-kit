@@ -12,8 +12,6 @@ Whether you're building a third-person survival game, a zombie shooter, or exper
 
 ## 🚀 What's Included
 
-In addition to all **Free and Pro TPS Kit** features, this version includes:
-
 - ✅ **Synty, UE4, and UE5 compatibility**
 - 🧟 **Zombie AI** (with full animations)
 - 💡 **Flashlight overlay system**
